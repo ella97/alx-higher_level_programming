@@ -4,3 +4,6 @@ This is the project which is working on relational databases.
 
 * **0. List databases**
   * [0-list_databases.sql](https://github.com/ella97/alx-higher_level_programming/blob/main/0x0D-SQL_introduction/0-list_databases.sql): MySQL script that lists all databases.
+
+* **1. Create databases**
+  * [1-create_database_if_missing.sql](https://github.com/ella97/alx-higher_level_programming/blob/main/0x0D-SQL_introduction/1-create_database_if_missing.sql): MySQL script that lists all databases.
