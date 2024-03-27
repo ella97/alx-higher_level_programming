@@ -12,4 +12,4 @@ This is the project which is working on relational databases.
   * [2-remove_database.sql](https://github.com/ella97/alx-higher_level_programming/blob/main/0x0D-SQL_introduction/2-remove_database.sql): MySQL script that lists all databases.
 
 * **3. List tables**
-  * [3-list_tables.sql](./3-list_tables.sql): MySQL script that lists all tables.n
+  * [3-list_tables.sql](https://github.com/ella97/alx-higher_level_programming/blob/main/0x0D-SQL_introduction/3-list_tables.sql): MySQL script that lists all tables.n
